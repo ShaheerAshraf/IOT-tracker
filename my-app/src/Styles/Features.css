@@ -1,0 +1,37 @@
+.features-content {
+    /* padding-left: 70px; */
+    padding-top: 30px;
+
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.features-content2 {
+    padding-top: 30px;
+    /* padding-left: 15px; */
+}
+
+.features-content3 {
+    padding-top: 30px;
+    /* padding-left: 15px; */
+}
+
+.features-content4 {
+    padding-top: 30px;
+    /* padding-left: 15px; */
+}
+
+.tracker {
+    background-color: #2A2462;
+}
+
+.trackerscreen {
+    width: 50%;
+    position: relative;
+    left: 300px;
+    padding-bottom: 50px;
+}

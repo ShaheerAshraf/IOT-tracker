@@ -1,0 +1,35 @@
+.footer {
+    background-color: #2A2462;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.footer2 {
+    padding-top: 80px;
+    position: relative;
+    /* left: 100px; */
+
+}
+
+.footer-logo {
+    padding-top: 20px;
+    /* padding-left: 70px; */
+}
+
+.icon-footer {
+    padding-top: 80px;
+    /* padding-left: 70px; */
+}
+
+.icon-footer2 {
+    padding-top: 80px;
+    position: relative;
+    /* right: 20px; */
+}
+
+.footer-img {
+    height: 50px;
+    width: 100%;
+}

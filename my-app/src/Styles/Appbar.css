@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    background-color: #2A2462;
+
+}
+.navbar li{
+    display: inline;
+    
+}
+.navbar li a{
+    
+    padding: 80px;
+    text-decoration: none;
+    color: white;
+}
